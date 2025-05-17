@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Stop and remove the running container (if any)
 containerid=$(docker ps -q)
 
